@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud, Devops, Embedded Linux,**
 
-- 💬 Ask me about **Flutter, Linux, WordPress**
+- 💬 Ask me about **Flutter, Linux, WordPress, Python, Embedded Linux**
 
 - 📫 How to reach me **mmaashirawan@gmail.com**
 
